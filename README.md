@@ -29,6 +29,15 @@ Based in Bangladesh
 
 > A curated and organized collection of resources related to **programming-books**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# programming-books
+
+> A curated and organized collection of resources related to **programming-books**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # programming-books
