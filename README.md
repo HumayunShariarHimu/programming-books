@@ -2,13 +2,11 @@
 
 > A curated and organized collection of resources related to **programming-books**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # programming-books
 
 > Curated collection of free programming books: Python, JavaScript, Go, Rust, and more. Learn coding, algorithms, and system design with open-source resources.
 
-# Contact With Me:
 
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
   </a>
